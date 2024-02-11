@@ -1,4 +1,4 @@
-# Video Classification Project
+# Video Classification using Spatiotemporal convolutions
 
 [Undertook in 2023, Opened Github in 2024, Hence posting in 2024]
 
