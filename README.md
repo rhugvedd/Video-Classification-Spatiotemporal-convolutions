@@ -1,4 +1,4 @@
-# Video Captioning Project
+# Video Classification Project
 
 ## Overview
 This project aims to develop a video classification system using deep learning techniques. The system takes input videos and classifies them according to the content of those videos. The project utilizes the UCF101 dataset, which contains videos of various human actions.
