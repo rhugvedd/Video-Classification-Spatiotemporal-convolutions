@@ -16,7 +16,7 @@ This project aims to develop a video classification system using deep learning t
 - einops
 
 ## Model Architecture
-The video classification model is based on a custom 3D convolutional neural network (CNN) architecture. It consists of multiple residual blocks and convolutional layers, designed to extract high-level features from video frames and generate captions based on these features.
+The video classification model is based on a custom 3D convolutional neural network (CNN) architecture. It consists of multiple residual blocks and convolutional layers, designed to extract high-level features from video frames and classify them based on these features.
 
 The 3D convolutional neural network model is based off the paper [A Closer Look at Spatiotemporal Convolutions for Action Recognition](https://arxiv.org/abs/1711.11248v3). The paper compares several versions of 3D ResNets. Instead of operating on a single image with dimensions `(height, width)`, like standard ResNets, these operate on video volume `(time, height, width)`.
 
